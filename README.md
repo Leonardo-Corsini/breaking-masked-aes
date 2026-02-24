@@ -1,6 +1,6 @@
 # Breaking Masked AES: A Machine Learning & Deep Learning Side-Channel Attack
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
