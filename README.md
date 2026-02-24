@@ -17,7 +17,7 @@ This project uses the public reference **ASCAD Dataset**, in the fixed-key, with
 * **700** features per trace.
 * Fixed encryption key, but traces are protected by boolean masking with a randomly different mask applied to every trace.
 
-> **Note:** Due to file size constraints, the ASCAD dataset is not included in this repository. Please download it from the official ASCAD database and place it in the `data/` folder.
+> **Note:** Due to file size constraints, the ASCAD dataset is not included in this repository. Please download it from the [official ASCAD database](https://github.com/ANSSI-FR/ASCAD) and place it in the `data/` folder.
 
 ## Methodology
 
