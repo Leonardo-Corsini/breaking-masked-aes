@@ -40,3 +40,11 @@ Key findings:
 * **Classical ML Performance:** The best obtained implementations of Random Forest and Gaussian Naïve Bayes were able to reach a stable rank 0 with **~1000** and **~3000** traces on average, respectively.
 * **Feature Selection:** Random Forest feature selection proved to be the most effective for classical models. Mutual Information feature selection was slower to reach a stable rank 0 compared to Random Forest, but still permitted retrieving the key.
 
+* ## ⚠️ Educational Disclaimer
+
+This repository and its contents are provided for **educational and academic purposes only**. 
+
+The Side-Channel Attacks demonstrated in this project are executed against a public reference dataset (ASCAD) specifically designed and released by the ANSSI for security research. The techniques and code provided should not be used for malicious purposes or applied to real-world hardware or systems without explicit, authorized permission. 
+
+The author assumes no liability and is not responsible for any misuse or damage caused by the information provided in this project.
+
